@@ -1,0 +1,14 @@
+Name,day,canLiveOuts,isDishes
+Sunday Hallways,Sunday,TRUE,FALSE
+Sunday Chapter,Sunday,TRUE,FALSE
+Sunday Backyard,Sunday,TRUE,FALSE
+Sunday Dormer,Sunday,TRUE,FALSE
+Sunday Great Hall,Sunday,TRUE,FALSE
+Sunday Library,Sunday,TRUE,FALSE
+Sunday Food,Sunday,FALSE,FALSE
+Monday Food,Monday,FALSE,FALSE
+Tuesday Food,Tuesday,FALSE,FALSE
+Wednesday Food,Wednesday,FALSE,FALSE
+Wednesday Dormer,Wednesday,FALSE,FALSE
+Thursday Food,Thursday,FALSE,FALSE
+Friday Dormer,Friday,FALSE,FALSE
